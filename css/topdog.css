@@ -14,7 +14,7 @@
 	margin-left: 0;
 }
 body:not(.template-slider) #Header_wrapper {
-	background-image: url(../images/home_club2_pic26.jpg)
+	background-image: url(../content/images/HeroImage.jpg)
 }
 @media only screen and (min-width: 1240px) {
 	body:not(.header-simple) #Top_bar #menu {
